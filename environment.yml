@@ -1,0 +1,9 @@
+﻿name: historical-data
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - openpyxl
+  - pandas
+  - matplotlib
+prefix: C:\Users\alan.hernandez\AppData\Local\miniconda3\envs\historical-data
